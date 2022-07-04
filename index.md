@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="minecraft_icon.ico">
+  </head>
+
 # Optifine 1.12 2
 
 ## Download Optifine for Minecraft
